@@ -2,7 +2,7 @@
 =====
 
 `ord-api` ord-api is forked from ordinals/ord.
-Added some APIs for obtaining inscription information.
+Added some APIs for  inscription information.
 See [ordinals/ord](https://github.com/ordinals/ord) for guides.
 
 
